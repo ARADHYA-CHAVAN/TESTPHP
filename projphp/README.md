@@ -7,7 +7,7 @@ first php repo
 -css
 
 # regsiteration page
-![registeration page](projphp/register.png)
+![registeration page](images/register.png)
 # login page
 
-![login page](projphp/login.png)
+![login page](images/login.png)
